@@ -1,0 +1,10 @@
+# PHP_Modul5
+Latihan 1
+![alt text](https://github.com/DemsiRakhi/PHP_Modul5/blob/master/Modul5/SSLatihan1.PNG)
+Latihan 2
+![alt text](https://github.com/DemsiRakhi/PHP_Modul5/blob/master/Modul5/SSLatihan2.PNG)
+Latihan 4
+![alt text](https://github.com/DemsiRakhi/PHP_Modul5/blob/master/Modul5/SSLatihan4.PNG)
+![alt text](https://github.com/DemsiRakhi/PHP_Modul5/blob/master/Modul5/SSLatihan4_2.PNG)
+Tugas Praktikum
+![alt text](https://github.com/DemsiRakhi/PHP_Modul5/blob/master/Modul5/tugaspraktikum.PNG)
